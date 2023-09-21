@@ -24,6 +24,7 @@ npx hardhat compile
 ## Maintainers <a name="maintainers"> </a>
 This repository is maintained by the [Tellor team](https://github.com/orgs/tellor-io/people)
 
+But thanks to [Perito Flores](https://twitter.com/peritoflores) for finding issues that led to this repo.  
 
 ## How to Contribute<a name="how2contribute"> </a>  
 
